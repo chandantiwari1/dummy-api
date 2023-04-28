@@ -14,7 +14,7 @@ app.post('/upload', async (req, res) => {
 
     const data = {
         text: 'This is some text',
-        images: "https://images.unsplash.com/photo-1682547095016-c9cfee414163?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        images: "https://media.licdn.com/dms/image/C5603AQHEwsPuf9_Vmw/profile-displayphoto-shrink_100_100/0/1591374070370?e=1687996800&v=beta&t=alUjEcI6USTPVr4hjwZTQeVuFnNziPYNAaaCJ63ZCio",
         videos: "https://www.youtube.com/watch?v=n2d8yFXZx2o",
         pdfs: "https://cses.fi/book/book.pdf",
     };
